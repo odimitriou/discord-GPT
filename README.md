@@ -2,6 +2,10 @@
 
 This project is a Python application that integrates the Discord API and the OpenAI API to enable seamless communication between Discord channels and OpenAI's powerful language model. The Discord API is used to receive prompts from Discord channels, which are then forwarded to the OpenAI API for generating responses. The generated response is subsequently sent back to the respective Discord channel.
 
+I followed a tutorial from AmigosCode:
+[ChatGPT Tutorial - Create a Chatbot for Discord with Python](https://www.youtube.com/watch?v=wdgVv4UP08c&t=407s&ab_channel=Amigoscode).
+
+
 # **Prerequisites**
 
 To run this project, you need to have the following:
