@@ -26,9 +26,9 @@ To run this project, you need to have the following:
 
 # **Configuration**
 
--Open the .env file and update the following variables:
-DISCORD_TOKEN= <your-discord-bot-token>
-OPENAI_API_KEY= <your-openai-api-key>
+- Open the .env file and update the following variables:
+DISCORD_TOKEN= =="<your-discord-bot-token>"==
+OPENAI_API_KEY= =="<your-openai-api-key>"==
 
 # **Usage**
 Run the application using the following command:
@@ -36,10 +36,10 @@ Run the application using the following command:
 
 The bot will connect to Discord and start listening for messages in the configured channels.
 
-To interact with the bot, simply send messages in the Discord channels where the bot is present. The bot will forward your messages to the OpenAI API and respond back with the generated message.
+To interact with the bot, simply send messages in the Discord channels using `/chatgpt` heading. The bot will forward your messages to the OpenAI API and respond back with the generated message.
 
 # **Customization**
-You can customize the behavior of the bot by modifying the code in main.py. You can add additional event handlers, modify message processing logic, or incorporate additional functionality based on your requirements.
+You can customize the behavior of the bot by modifying the code in app.py. You can add additional event handlers, modify message processing logic, or incorporate additional functionality based on your requirements.
 
 # **Contributing**
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
