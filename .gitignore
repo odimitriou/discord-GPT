@@ -1,0 +1,4 @@
+tokens.txt
+.env
+__pycache__/
+*.py[cod]
