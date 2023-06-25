@@ -20,15 +20,15 @@ To run this project, you need to have the following:
 
 `cd discord-bot`
 
-3.Install the required dependencies using:
+3. Install the required dependencies using:
 
 `pip install -r requirements.txt`
 
 # **Configuration**
 
 - Open the .env file and update the following variables:
-DISCORD_TOKEN= =="<your-discord-bot-token>"==
-OPENAI_API_KEY= =="<your-openai-api-key>"==
+DISCORD_TOKEN="your-discord-bot-token"
+OPENAI_API_KEY="your-openai-api-key"
 
 # **Usage**
 Run the application using the following command:
