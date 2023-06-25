@@ -14,20 +14,22 @@ To run this project, you need to have the following:
 
 1. Clone or download this repository to your local machine.
 
-`git clone https://github.com/odimitriou/discord-bot.git`
+  `git clone https://github.com/odimitriou/discord-bot.git`
 
 2. Navigate to the project directory.
 
-`cd discord-bot`
+  `cd discord-bot`
 
 3. Install the required dependencies using:
 
-`pip install -r requirements.txt`
+  `pip install -r requirements.txt`
 
 # **Configuration**
 
 - Open the .env file and update the following variables:
+
 DISCORD_TOKEN="your-discord-bot-token"
+
 OPENAI_API_KEY="your-openai-api-key"
 
 # **Usage**
