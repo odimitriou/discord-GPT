@@ -6,9 +6,9 @@ This project is a Python application that integrates the Discord API and the Ope
 
 To run this project, you need to have the following:
 
--Python 3.x installed on your system
--Discord API credentials (token) for your Discord bot
--OpenAI API credentials (API key) for accessing the OpenAI language model
+- Python 3.x installed on your system
+- Discord API credentials (token) for your Discord bot
+- OpenAI API credentials (API key) for accessing the OpenAI language model
 
 # **Installation**
 
@@ -17,16 +17,18 @@ To run this project, you need to have the following:
 `git clone https://github.com/odimitriou/discord-bot.git`
 
 2. Navigate to the project directory.
+
 `cd discord-bot`
 
-3.Install the required dependencies using
+3.Install the required dependencies using:
+
 `pip install -r requirements.txt`
 
 # **Configuration**
 
 -Open the .env file and update the following variables:
-DISCORD_TOKEN=<your-discord-bot-token>
-OPENAI_API_KEY=<your-openai-api-key>
+DISCORD_TOKEN= <your-discord-bot-token>
+OPENAI_API_KEY= <your-openai-api-key>
 
 # **Usage**
 Run the application using the following command:
